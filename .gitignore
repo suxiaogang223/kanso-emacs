@@ -7,6 +7,8 @@ transient/
 tree-sitter/
 url/
 var/
+games/
+tutorial/
 
 # Emacs backup and lock files
 *~
